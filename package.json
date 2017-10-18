@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-typescript",
+  "version": "0.0.0",
+  "description": "Tic Tac Toe CLI For Intro To Typescript Presentation",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "Michael Solati",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    "word-table": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.11.7",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.2"
+  }
+}
