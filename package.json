@@ -1,6 +1,6 @@
 {
   "name": "intro-to-typescript",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tic Tac Toe CLI For Intro To Typescript Presentation",
   "scripts": {
     "start": "ts-node src/index.ts"
